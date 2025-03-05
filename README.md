@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi I'm Almu 👋
+I'm a full stack developer with a focus on frontend (but I also have backend knowledge) 🚀 I love creating intuitive and functional interfaces.
 
-<!--
-**AlmuDiazMadramany/AlmuDiazMadramany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About me
+-   I'm passionate about continuous learning and building projects that make a difference.
+-   I love painting, and that's why I'm developing my own website as a personal project.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+- React, JavaScript, HTML/CSS
+- Node.js, Express, MongoDB, SQL
+
+
+### 📫 Contact
+- [LinkedIn][(https://www.linkedin.com/in/almudiazmadramany/))]
+- Email: almumadra@hotmail.com
+
+### 💼 Featured Projects
+You can find my proyects down below
+
