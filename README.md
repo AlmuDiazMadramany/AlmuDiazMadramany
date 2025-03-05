@@ -12,7 +12,7 @@ I'm a full stack developer with a focus on frontend (but I also have backend kno
 
 
 ### 📫 Contact
-- [LinkedIn][(https://www.linkedin.com/in/almudiazmadramany/)]
+- LinkedIn: https://www.linkedin.com/in/almudiazmadramany/
 - Email: almumadra@hotmail.com
 
 ### 💼 Featured Projects
